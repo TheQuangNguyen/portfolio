@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Number and name of feature: Refactor the CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheQuangNguyen/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheQuangNguyen/portfolio/issues"
+  },
+  "homepage": "https://github.com/TheQuangNguyen/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
