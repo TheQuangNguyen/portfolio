@@ -76,6 +76,7 @@
 
 }
 
+
 /* Normal */
 
 @media screen and (min-width: 961px) and (max-width: 1620px) {
@@ -197,8 +198,6 @@
       width: 1.75em;
       font-size: 1.25em;
     }
-
-  /* Header */
 
   
   /* Footer */
