@@ -20,12 +20,12 @@ Finish time: 12:50am
 Actual time needed to complete: 2 hr 30 min
 
 
-Number and name of feature: Modifying the Contents
+Number and name of feature: Add Functionality
 
 Estimate of time needed to complete: 2 hr
 
-Start time: 10:20am
+Start time: 10:30am
 
-Finish time: 12:50am
+Finish time: 1:30am
 
-Actual time needed to complete: 2 hr 30 min
+Actual time needed to complete: 3 hr
