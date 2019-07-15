@@ -505,7 +505,7 @@
 					color: rgb(236, 46, 46);
 					border-color: inherit;
 				}
-
+	
 			#main > section.cover {
 				padding: 10em 0;
 				background-size: cover;
@@ -514,7 +514,8 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Seattle_Kerry_Park_Skyline.jpg");
+				background-image: url("../../../images/seattle.webp");
+				background-size: cover;
 			}
 
 			#main > section.two {
